@@ -15,7 +15,12 @@ The project goal is to enable people to undertand a property valuation by a brea
 Starting the project the focus was on creating a product for the german market, but we quickly realized that the amount and quality of available data was dissatisfactory. As the focus was more on creating a working product than on collecting data, we switched to the US market. There the data is accessible and easier to retrieve. In our case we retireved the data via RapidAPI, which retrieved a list of search results including detailed property information, as well as similar properties, which where recetly sold and a Walk & Transit Score for each property.
 
 ## How users can get started with the project
-- Use this file
+1. Click on the following like to start streamlit:
+
+2. Fill out all datafields (as adress you can use e.g. 10 Dominguez Street)
+
+3. Click on 'Search' and a price estimation for your property will be provided as well as comparable properties. 
+
 ## Required tools & packages
 - RapidAPI for fetching property data from Zillow.com (no live connection included in the product, but with stored data)
 - Python environment (e.g. Colabs or Jupyter notebooks)
