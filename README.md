@@ -1,15 +1,13 @@
 Disclaimer: The data which is used, has been fetched via a API from Zillow.com. The live version however does not include a live connection to Zillow.com, due to the fact that a specfic API code and password is required that cannot be stored on publicy. Therfore the model contains data that has been retrieved in July/August of 2022 in order to have a working product. 
 
 # LaCasita
-We wanted to make it easier for people to find their own home. Therefore we thought about issues people face nowadays and two of the biggest pain points seem to be the misisng transparency as well as the missing knowledge whether a property is fair valued and how the price is driven. In that manner we want to contribute to: The transparent housing market of the future - LaCasita! 
+We want to make it easier for people to find their own home. Therefore we thought about issues people face nowadays and two of the biggest pain points seem to be the misisng transparency as well as the missing knowledge whether a property is fair valued and how the price is driven. In that manner we want to contribute to: The transparent housing market of the future - LaCasita! 
 
 ## Purpose & Project goal
 The project goal is to enable people to undertand a property valuation by a breakdown into the features, that creates the most value for homes. Even though it can be used to also increase the selling price, but understanding what brings more value, the focus is on the home buyers:
 - Property value estimation
 - Recommendation system, that eases the process of finding a suitable property (incl. recommendations on how to find a better property, when defining the requirements, such as area, price or number of bathrooms)
 - Display the information in a user friendly way
-
-## Why the project is useful
 
 ## Project Outline
 Starting the project the focus was on creating a product for the german market, but we quickly realized that the amount and quality of available data was dissatisfactory. As the focus was more on creating a working product than on collecting data, we switched to the US market. There the data is accessible and easier to retrieve. In our case we retireved the data via RapidAPI, which retrieved a list of search results including detailed property information, as well as similar properties, which where recetly sold and a Walk & Transit Score for each property.
@@ -29,6 +27,7 @@ Starting the project the focus was on creating a product for the german market, 
 - pandas
 - matplotlib.pyplot
 - seaborn
+
 ## The Contributers
 - Timon Beyen
 - David Brüninghoff
