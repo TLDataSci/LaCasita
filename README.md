@@ -1,10 +1,10 @@
-Disclaimer: The data which is used, has been fetched via a API from Zillow.com. The live version however does not include a live connection to Zillow.com, due to the fact that a specfic API code and password is required that cannot be stored on publicy. Therfore the model contains data that has been retrieved in July/August of 2022 in order to have a working product. 
+Disclaimer: The data which is used, has been fetched via a API from Zillow.com. The live version however does not include a live connection to Zillow.com, due to the fact that a specfic API code and password is required that cannot be stored on publicy. Therefore the model contains data that has been retrieved in July/August of 2022 in order to have a working product. 
 
 # LaCasita 🏡
-We want to make it easier for people to find their own home. Therefore we thought about issues people face nowadays and two of the biggest pain points seem to be the misisng transparency as well as the missing knowledge whether a property is fair valued and how the price is driven. In that manner we want to contribute to: The transparent housing market of the future - LaCasita! 
+We want to make it easier for people to find their own home. Therefore we thought about issues people face nowadays and two of the biggest pain points seem to be the missing transparency as well as the missing knowledge whether a property is fair valued and how the price is driven. In that manner we want to contribute to: The transparent housing market of the future - LaCasita! 
 
 ## Purpose & Project goal 🏁 
-The project goal is to enable people to undertand a property valuation by a breakdown into the features, that creates the most value for homes. Even though it can be used to also increase the selling price, but understanding what brings more value, the focus is on the home buyers:
+The project goal is to enable people to understand a property valuation by a breakdown into the features, that creates the most value for homes. Even though it can be used to also increase the selling price, but understanding what brings more value, the focus is on the home buyers:
 - Property value estimation
 - Recommendation system, that eases the process of finding a suitable property (incl. recommendations on how to find a better property, when defining the requirements, such as area, price or number of bathrooms)
 - Display the information in a user friendly way
