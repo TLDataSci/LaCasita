@@ -27,7 +27,8 @@ Starting the project the focus was on creating a product for the german market, 
 - pandas
 - matplotlib.pyplot
 - seaborn
-- geopy (for converting address into coordinates)
+- pickle
+- geopy
 
 ## The Contributors ⌨️
 - Timon Beyen
