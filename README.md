@@ -9,7 +9,7 @@ The project goal is to enable people to undertand a property valuation by a brea
 - Recommendation system, that eases the process of finding a suitable property (incl. recommendations on how to find a better property, when defining the requirements, such as area, price or number of bathrooms)
 - Display the information in a user friendly way
 
-## Project Outline 
+## Project Outline ℹ️
 Starting the project the focus was on creating a product for the german market, but we quickly realized that the amount and quality of available data was dissatisfactory. As the focus was more on creating a working product than on collecting data, we switched to the US market. There the data is accessible and easier to retrieve. In our case we retireved the data via RapidAPI, which retrieved a list of search results including detailed property information, as well as similar properties, which where recetly sold and a Walk & Transit Score for each property.
 
 ## How users can get started with the project 🚀
@@ -28,7 +28,7 @@ Starting the project the focus was on creating a product for the german market, 
 - matplotlib.pyplot
 - seaborn
 
-## The Contributers 
+## The Contributers ⌨️
 - Timon Beyen
 - David Brüninghoff
 - Steffen Frye
